@@ -13,6 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B2E4597921A653310047B942 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D20C82F91C77C1F2002CA000 /* SwiftSpinner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftSpinner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D20C82FC1C77C1F2002CA000 /* SwiftSpinner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SwiftSpinner.h; path = ../SwiftSpinner/SwiftSpinner.h; sourceTree = "<group>"; };
 		D20C82FE1C77C1F2002CA000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../SwiftSpinner/Info.plist; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 		D20C82EF1C77C1F1002CA000 = {
 			isa = PBXGroup;
 			children = (
+				B2E4597921A653310047B942 /* MyPlayground.playground */,
 				D20C82FB1C77C1F2002CA000 /* SwiftSpinner */,
 				D20C82FA1C77C1F2002CA000 /* Products */,
 			);
